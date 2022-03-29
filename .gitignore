@@ -44,6 +44,8 @@ GlobusSatProject/Debug/src/main.d
 GlobusSatProject/Debug/src/TLM_management.d
 GlobusSatProject/GlobusSatProject-debug.launch
 .metadata/.log
+.metadata/.lock
+.metadata/*
 .metadata/.plugins/org.eclipse.core.resources/.projects/GlobusSatProject/.markers.snap
 .metadata/.plugins/org.eclipse.core.resources/.projects/GlobusSatProject/.syncinfo.snap
 .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap
