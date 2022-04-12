@@ -57,6 +57,7 @@ GlobusSatProject/GlobusSatProject-debug.launch
 *.a
 *.elf
 *.map
+*.lds
 .metadata/.plugins/org.eclipse.core.resources/.projects/GlobusSatProject/.markers.snap
 .metadata/.plugins/org.eclipse.core.resources/.projects/GlobusSatProject/.syncinfo.snap
 .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap
