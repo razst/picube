@@ -27,7 +27,17 @@
 #define INVALID_IMG_TYPE			-209
 #define INFO_MSG				-210
 
+//aded from ycubesim:
+typedef int Boolean;
 
+#define TRUE 0xFFFFFFFF
+#define FALSE 0x0
+#define NULL ((void *)0)
+// custom errors
+#define E_SOCKET -1000
+#define E_SOCKET_OPT -1001
+#define E_FILE	-1002
+#define E_TIME -1003
 
 
 #define MAX_ERRORS       				 10 // max errors we want to log from the same type toghether
